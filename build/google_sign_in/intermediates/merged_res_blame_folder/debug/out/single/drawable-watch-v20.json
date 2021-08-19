@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/macbookpro/Documents/lovelyrk/build/google_sign_in/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-2/files-2.1/6668692512945fa80b6246fa9938ad39/jetified-play-services-auth-16.0.1/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/lovelyrk/build/google_sign_in/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-2/files-2.1/6668692512945fa80b6246fa9938ad39/jetified-play-services-auth-16.0.1/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/lovelyrk/build/google_sign_in/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-2/files-2.1/6668692512945fa80b6246fa9938ad39/jetified-play-services-auth-16.0.1/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">716562936178-d17s205lukcgb5bmqc7evononghp1mt9.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">716562936178</string>
+    <string name="google_api_key" translatable="false">AIzaSyARC2qYdMm6mlnRsWeRKRQeHlV_xQ9TFcE</string>
+    <string name="google_app_id" translatable="false">1:716562936178:android:ce5a8c2b0bf9d3f64d6deb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyARC2qYdMm6mlnRsWeRKRQeHlV_xQ9TFcE</string>
+    <string name="google_storage_bucket" translatable="false">lovex-36bd2.appspot.com</string>
+    <string name="project_id" translatable="false">lovex-36bd2</string>
+</resources>

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "716562936178",
+    "project_id": "lovex-36bd2",
+    "storage_bucket": "lovex-36bd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716562936178:android:ce5a8c2b0bf9d3f64d6deb",
+        "android_client_info": {
+          "package_name": "com.example.lovelyrk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716562936178-7g43lfhnncoo6vcaqr8m217qhlabgstm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lovelyrk",
+            "certificate_hash": "099886c7ba73f9e255d3495a0cda060b2bbbe442"
+          }
+        },
+        {
+          "client_id": "716562936178-d17s205lukcgb5bmqc7evononghp1mt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARC2qYdMm6mlnRsWeRKRQeHlV_xQ9TFcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716562936178-d17s205lukcgb5bmqc7evononghp1mt9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "716562936178-dr7rskgkqh2al20u4527rsdfmv1i5aue.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lovelyrk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

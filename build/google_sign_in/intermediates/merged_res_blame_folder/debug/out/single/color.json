@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/macbookpro/Documents/lovelyrk/build/google_sign_in/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-2/files-2.1/d631af370e207547efd0d5639d0ce7a1/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/lovelyrk/build/google_sign_in/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-2/files-2.1/d631af370e207547efd0d5639d0ce7a1/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/lovelyrk/build/google_sign_in/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/macbookpro/.gradle/caches/transforms-2/files-2.1/d631af370e207547efd0d5639d0ce7a1/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]
